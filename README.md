@@ -6,7 +6,7 @@ This repository is used for STAT 628 module_4 Spotify Assignment. All of our wor
 
 
 ## Overview
-
+This project analyzes Spotify podcasts using BTM for topic modeling, PCA for dimensionality reduction, and KMeans for clustering. The methodology effectively extracts meaningful insights and aligns with real-world semantics, enabling personalized recommendations. 
 
 ## Requirements
 To run the codes, you will need the following libraries installed in your environment. The code is in the 
